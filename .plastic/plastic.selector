@@ -1,0 +1,4 @@
+repository "Fishing2D@vuong123lc_2000@cloud"
+  path "/"
+    br "/main"
+    co "/main"
